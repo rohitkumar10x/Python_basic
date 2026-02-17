@@ -1,2 +1,2 @@
 # Python_basic
-Basic Python Learning
+Basic Python Learning & Practice
